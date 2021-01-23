@@ -46,7 +46,7 @@ public class FileDirectoryLister
             if(file.isDirectory())
             {
                 System.out.println("Directory: " + file.getName());
-                printFiles(getFiles(file.getPath()));
+
 
             }
             else
