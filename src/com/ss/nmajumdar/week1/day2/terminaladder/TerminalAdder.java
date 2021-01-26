@@ -1,4 +1,4 @@
-package com.ss.nmajumdar.day2.terminaladder;
+package com.ss.nmajumdar.week1.day2.terminaladder;
 
 /**
  * @author Neil Majumdar

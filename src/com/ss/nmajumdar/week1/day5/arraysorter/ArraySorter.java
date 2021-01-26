@@ -1,4 +1,4 @@
-package com.ss.nmajumdar.day5;
+package com.ss.nmajumdar.week1.day5.arraysorter;
 
 import java.util.Arrays;
 import java.util.List;

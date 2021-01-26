@@ -1,4 +1,4 @@
-package com.ss.nmajumdar.day1.q1;
+package com.ss.nmajumdar.week1.day1.q1;
 
 public class Patterns {
 

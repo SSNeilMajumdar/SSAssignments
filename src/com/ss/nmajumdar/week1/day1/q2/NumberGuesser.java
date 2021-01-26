@@ -1,4 +1,4 @@
-package com.ss.nmajumdar.day1.q2;
+package com.ss.nmajumdar.week1.day1.q2;
 
 import java.util.Scanner;
 

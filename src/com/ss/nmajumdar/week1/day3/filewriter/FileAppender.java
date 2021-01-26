@@ -1,10 +1,7 @@
-package com.ss.nmajumdar.day3.filewriter;
+package com.ss.nmajumdar.week1.day3.filewriter;
 
-import java.io.Console;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 
 /**
  * @author Neil Majumdar

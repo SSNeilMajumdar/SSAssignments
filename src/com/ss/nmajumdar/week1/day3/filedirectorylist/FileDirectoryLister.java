@@ -1,9 +1,6 @@
-package com.ss.nmajumdar.day3.filedirectorylist;
+package com.ss.nmajumdar.week1.day3.filedirectorylist;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.util.List;
 
 /**
  * @author Neil Majumdar

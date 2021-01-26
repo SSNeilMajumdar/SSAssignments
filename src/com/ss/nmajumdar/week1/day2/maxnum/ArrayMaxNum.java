@@ -1,4 +1,4 @@
-package com.ss.nmajumdar.day2.maxnum;
+package com.ss.nmajumdar.week1.day2.maxnum;
 
 /**
  * @author Neil Majumdar

@@ -1,7 +1,6 @@
-package com.ss.nmajumdar.day3.charcounter;
+package com.ss.nmajumdar.week1.day3.charcounter;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
