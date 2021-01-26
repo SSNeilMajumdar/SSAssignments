@@ -1,0 +1,8 @@
+1) LocalDataTime class
+2) LocalDate date
+   date.with(TemporalAdjuster.previous(DayOfWeek.THURSDAY));
+3) ZoneId and ZoneOffset track an offset from Greenwich/UTC time, but the ZoneOffset tracks the absolute offset from Greenwich/UTC.
+4) Instant to ZonedDateTime --> ZonedDateTime zdt = ZonedDateTime.ofInstant(Instant.now(), ZoneId.systemDefault());
+   ZonedDateTime to Instant --> Instant inst = ZonedDateTime.now().toInstant();
+
+5-7 in DateTimeAPI.java
