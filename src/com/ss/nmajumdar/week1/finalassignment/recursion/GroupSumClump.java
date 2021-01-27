@@ -3,6 +3,9 @@ package com.ss.nmajumdar.week1.finalassignment.recursion;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @author Neil Majumdar
+ */
 public class GroupSumClump {
 
     public static void main(String[] args)

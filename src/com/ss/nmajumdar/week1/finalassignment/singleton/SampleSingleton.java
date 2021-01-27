@@ -3,6 +3,9 @@ package com.ss.nmajumdar.week1.finalassignment.singleton;
 import java.math.BigDecimal;
 import java.sql.*;
 
+/**
+ * @author Neil Majumdar
+ */
 public class SampleSingleton
 {
     private static Connection conn = null;

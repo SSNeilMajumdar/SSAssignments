@@ -8,6 +8,9 @@ import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
+/**
+ * @author Neil Majumdar
+ */
 public class GroupSumClumpTests {
 
     private GroupSumClump groupSumClump = new GroupSumClump();
